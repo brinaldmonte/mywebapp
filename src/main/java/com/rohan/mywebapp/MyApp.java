@@ -10,8 +10,8 @@ package com.rohan.mywebapp;
 public class MyApp {
     public static void main(String [] args){
         System.out.println("Hello");
-        String str = "Rohan ";
+        String fname = "Rohan ";
         String lname = "Dmello";
-        System.out.println(str+lname);
+        System.out.println(fname+lname);
     }
 }
